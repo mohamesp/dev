@@ -6,6 +6,17 @@
 * git remote add origin https://github.com/mohamesp/dev.git
 * git push -u origin master
 
+# a markdown file authoring
+* use # for H1 Title
+* use ## for h2 Title
+* use ### for h3 Title
+* use three back quotes before and after the line to get a grayed area around the line
+* use an asterisk for bulleted list
+* use [xxxx](http://google.com) word surrounded by square brackets for the linked word and url surrounded by parentheses to get links
+* use double asterisks on either side of the word for bolded text
+* use single asterisk on either side of the word for italicized text
+
+
 # Project Title
 
 One Paragraph of project description goes here
