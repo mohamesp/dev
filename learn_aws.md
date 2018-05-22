@@ -23,210 +23,144 @@ Amazon Glacier
 AWS Snowball
 AWS Storage Gateway
 
-## Database
+<tr><td><h3>Database</h3></td></tr>
 
-Amazon RDS
-Amazon DynamoDB
-Amazon ElastiCache
-Amazon Redshift
-Amazon Neptune
+<tr><td>Amazon RDS</td></tr>
+<tr><td>Amazon DynamoDB</td></tr>
+<tr><td>Amazon ElastiCache</td></tr>
+<tr><td>Amazon Redshift</td></tr>
+<tr><td>Amazon Neptune</td></tr>
 
-## Migration
+<tr><td><h3>Migration</h3></td></tr>
 
-AWS Application Discovery Service
-AWS Database Migration Service
-AWS Import/Export
-AWS Migration Hub
-AWS Server Migration Service
-AWS Schema Conversion Tool
-AWS Snowball
+<tr><td>AWS Application Discovery Service</td></tr>
+<tr><td>AWS Database Migration Service</td></tr>
+<tr><td>AWS Import/Export</td></tr>
+<tr><td>AWS Migration Hub</td></tr>
+<tr><td>AWS Server Migration Service</td></tr>
+<tr><td>AWS Schema Conversion Tool</td></tr>
+<tr><td>AWS Snowball</td></tr>
 
-## Networking & Content Delivery
+<tr><td><h3>Networking & Content Delivery</h3></td></tr>
 
-Amazon VPC
-Amazon CloudFront
-Amazon Route 53
-API Gateway
-AWS Direct Connect
-Elastic Load Balancing
+<tr><td>Amazon VPC</td></tr>
+<tr><td>Amazon CloudFront</td></tr>
+<tr><td>Amazon Route 53</td></tr>
+<tr><td>API Gateway</td></tr>
+<tr><td>AWS Direct Connect</td></tr>
+<tr><td>Elastic Load Balancing</td></tr>
 
-## Developer Tools
+<tr><td><h3>Developer Tools</h3></td></tr>
 
-AWS CodeStar
-AWS CodeCommit
-AWS CodeBuild
-AWS CodeDeploy
-AWS CodePipeline
-AWS Cloud9
-AWS X-Ray
-AWS Tools & SDKs
+<tr><td>AWS CodeStar</td></tr>
+<tr><td>AWS CodeCommit</td></tr>
+<tr><td>AWS CodeBuild</td></tr>
+<tr><td>AWS CodeDeploy</td></tr>
+<tr><td>AWS CodePipeline</td></tr>
+<tr><td>AWS Cloud9</td></tr>
+<tr><td>AWS X-Ray</td></tr>
+<tr><td>AWS Tools & SDKs</td></tr>
 
-## Management Tools
+---
 
-Amazon CloudWatch
-AWS Auto Scaling
-AWS CloudFormation
-AWS CloudTrail
-AWS Config
-AWS OpsWorks
-AWS Service Catalog
-AWS Systems Manager
-Trusted Advisor
-AWS Health
-AWS Management Console
-AWS Command Line Interface
-AWS Tools for Windows PowerShell
+<tr><td><h3>Mobile Services</h3></td></tr>
 
-## Media Services
+<tr><td>AWS AppSync (Preview)</td></tr>
+<tr><td>AWS Mobile Hub</td></tr>
+<tr><td>AWS Device Farm</td></tr>
+<tr><td>Amazon Mobile Analytics</td></tr>
+<tr><td>Amazon Pinpoint</td></tr>
+<tr><td>AWS Mobile SDK for Android</td></tr>
+<tr><td>AWS Mobile SDK for iOS</td></tr>
+<tr><td>AWS Mobile SDK for Unity</td></tr>
+<tr><td>AWS Mobile SDK for Xamarin</td></tr>
+<tr><td>Amazon SNS</td></tr>
 
-Amazon Elastic Transcoder
-AWS Elemental MediaConvert
-AWS Elemental MediaLive
-AWS Elemental MediaPackage
-AWS Elemental MediaStore
-AWS Elemental MediaTailor
+<tr><td><h3>AR & VR</h3></td></tr>
 
-## Machine Learning
+<tr><td>Amazon Sumerian (Preview)</td></tr>
 
-Amazon SageMaker
-Amazon Comprehend
-AWS Deep Learning AMIs
-Amazon Lex
-Amazon Polly
-Amazon Rekognition
-Amazon Machine Learning
-Apache MXNet on AWS
-Amazon Translate
-Amazon Transcribe
-AWS DeepLens
+<tr><td><h3>Application Integration</h3></td></tr>
 
-## Analytics
+<tr><td>AWS Step Functions
+<tr><td>Amazon SWF</td></tr>
+<tr><td>Amazon SQS</td></tr>
+<tr><td>Amazon SNS</td></tr>
+<tr><td>Amazon MQ</td></tr>
 
-Amazon Athena
-Amazon CloudSearch
-AWS Data Pipeline
-Amazon Elasticsearch Service
-Amazon EMR
-AWS Glue
-Amazon Kinesis
-Amazon QuickSight
-Amazon Redshift
+<tr><td><h3>Customer Engagement</h3></td></tr>
 
-## Security, Identity, & Compliance
+<tr><td>Amazon Connect</td></tr>
+<tr><td>Amazon SES</td></tr>
 
-Identity & Access Management
-AWS Artifact
-AWS Certificate Manager
-AWS CloudHSM
-Amazon Cognito
-AWS Directory Service
-Amazon GuardDuty
-Amazon Inspector
-AWS KMS
-Amazon Macie
-AWS Organizations
-AWS Shield
-AWS Single Sign-On
-AWS WAF
+<tr><td><h3>Business Productivity</h3></td></tr>
 
-## Mobile Services
+<tr><td>Alexa for Business</td></tr>
+<tr><td>Amazon Chime</td></tr>
+<tr><td>Amazon WorkDocs</td></tr>
+<tr><td>Amazon WorkMail</td></tr>
 
-AWS AppSync (Preview)
-AWS Mobile Hub
-AWS Device Farm
-Amazon Mobile Analytics
-Amazon Pinpoint
-AWS Mobile SDK for Android
-AWS Mobile SDK for iOS
-AWS Mobile SDK for Unity
-AWS Mobile SDK for Xamarin
-Amazon SNS
+<tr><td><h3>Desktop & App Streaming</h3></td></tr>
 
-## AR & VR
+<tr><td>Amazon WorkSpaces</td></tr>
+<tr><td>Amazon WAM</td></tr>
+<tr><td>Amazon AppStream 2.0</td></tr>
 
-Amazon Sumerian (Preview)
+<tr><td><h3>Internet of Things</h3></td></tr>
 
-## Application Integration
+<tr><td>AWS IoT Core</td></tr>
+<tr><td>Amazon FreeRTOS</td></tr>
+<tr><td>AWS Greengrass</td></tr>
+<tr><td>AWS IoT Device Management</td></tr>
 
-AWS Step Functions
-Amazon SWF
-Amazon SQS
-Amazon SNS
-Amazon MQ
+<tr><td><h3>Game Development</h3></td></tr>
 
-## Customer Engagement
+<tr><td>Amazon Lumberyard (beta)</td></tr>
+<tr><td>Amazon GameLift</td></tr>
+-------
+<tr><td><h3>SDKs & Toolkits</h3></td></tr>
 
-Amazon Connect
-Amazon SES
+<tr><td>AWS SDK for C++</td></tr>
+<tr><td>AWS SDK for Go</td></tr>
+<tr><td>AWS SDK for Java</td></tr>
+<tr><td>AWS SDK for JavaScript</td></tr>
+<tr><td>AWS SDK for .NET</td></tr>
+<tr><td>AWS SDK for PHP</td></tr>
+<tr><td>AWS SDK for Python (Boto 3)</td></tr>
+<tr><td>AWS SDK for Ruby</td></tr>
+<tr><td>AWS Toolkit for Eclipse</td></tr>
+<tr><td>AWS Toolkit for Visual Studio</td></tr>
+<tr><td>AWS Tools for Visual Studio Team Services</td></tr>
 
-## Business Productivity
+<tr><td><h3>Additional Software & Services</h3></td></tr>
 
-Alexa for Business
-Amazon Chime
-Amazon WorkDocs
-Amazon WorkMail
+<tr><td>AWS Billing and Cost Management</td></tr>
+<tr><td>AWS Marketplace</td></tr>
+<tr><td>AWS Support</td></tr>
+<tr><td>Alexa Top Sites</td></tr>
+<tr><td>Alexa Web Information Service</td></tr>
+<tr><td>Amazon Silk</td></tr>
+<tr><td>AWS GovCloud (US)</td></tr>
 
-## Desktop & App Streaming
+<tr><td><h3>General Reference</h3></td></tr>
 
-Amazon WorkSpaces
-Amazon WAM
-Amazon AppStream 2.0
+<tr><td>Regions and Endpoints</td></tr>
+<tr><td>Security Credentials</td></tr>
+<tr><td>ARNs & Service Namespaces</td></tr>
+<tr><td>Service Limits</td></tr>
+<tr><td>AWS Glossary</td></tr>
 
-## Internet of Things
+<tr><td><h3>AWS Management Console</h3></td></tr>
 
-AWS IoT Core
-Amazon FreeRTOS
-AWS Greengrass
-AWS IoT Device Management
+<tr><td>Resource Groups</td></tr>
+<tr><td>Tag Editor</td></tr>
+<tr><td>Resource Groups Tagging API</td></tr>
 
-## Game Development
+<tr><td><h3>Resources</h3></td></tr>
 
-Amazon Lumberyard (beta)
-Amazon GameLift
-
-## SDKs & Toolkits
-
-AWS SDK for C++
-AWS SDK for Go
-AWS SDK for Java
-AWS SDK for JavaScript
-AWS SDK for .NET
-AWS SDK for PHP
-AWS SDK for Python (Boto 3)
-AWS SDK for Ruby
-AWS Toolkit for Eclipse
-AWS Toolkit for Visual Studio
-AWS Tools for Visual Studio Team Services
-
-## Additional Software & Services
-
-AWS Billing and Cost Management
-AWS Marketplace
-AWS Support
-Alexa Top Sites
-Alexa Web Information Service
-Amazon Silk
-AWS GovCloud (US)
-
-## General Reference
-
-Regions and Endpoints
-Security Credentials
-ARNs & Service Namespaces
-Service Limits
-AWS Glossary
-
-## AWS Management Console
-
-Resource Groups
-Tag Editor
-Resource Groups Tagging API
-
-## Resources
-
-AWS Quick Starts
-AWS Whitepapers
-AWS Training & Certification
-AWS Case Studies
-AWS Documentation on Kindle
-AWS Documentation Archive
+<tr><td>AWS Quick Starts</td></tr>
+<tr><td>AWS Whitepapers</td></tr>
+<tr><td>AWS Training & Certification</td></tr>
+<tr><td>AWS Case Studies</td></tr>
+<tr><td>AWS Documentation on Kindle</td></tr>
+<tr><td>AWS Documentation Archive</td></tr>
